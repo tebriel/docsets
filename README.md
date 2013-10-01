@@ -1,0 +1,4 @@
+docsets
+=======
+
+Generated Docsets
